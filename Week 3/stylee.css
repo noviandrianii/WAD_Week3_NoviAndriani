@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://colibriwp.com/blog/wp-content/uploads/2019/08/kseniya-lapteva-LdPFsNeCPGk-unsplash.jpg);
+}
+h1{
+text-align: center;
+text-decoration: underline;
+color:chartreuse;
+text-indent: 30px;
+
+}
+h2{
+text-align: center;
+color:aqua;
+text-transform: initial;
+}
+h3{
+text-align: center;
+color:brown;
+text-decoration: line-through;
+}
+p{
+text-align: justify;
+color:black;
+letter-spacing:normal;
+}

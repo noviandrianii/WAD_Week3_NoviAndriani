@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: darkolivegreen;
+    text-indent: 30px;
+}
+h2{
+    text-align: center;
+    color: fuchsia;
+    text-transform: initial;
